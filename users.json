@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "64402c89f75c5b87582db66d"
+  },
+  "first_name": "Sebasian Hans Eli",
+  "last_name": "Fors",
+  "username": "forsenlol",
+  "email": "thisis@forsen.lul",
+  "password": "$2b$10$Xd/nxfvTJOr6sGXXPuLSxO1C4pLz8D0gaoMZV0lXOsQlm0CWuE3DS",
+  "comments": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6450b4ae579012b9f93e08ce"
+  },
+  "first_name": null,
+  "last_name": null,
+  "email": "huyluong@gmail.com",
+  "password": "$2b$10$kFSH9yifBb7vysxl.aRI0Oj0emrWzNXYj50ZuYH9HXXS/3lZ/ETBy",
+  "comments": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64555ebc6bf90a59489909ab"
+  },
+  "first_name": "John",
+  "last_name": "Doe",
+  "username": "johndoegmail.com",
+  "email": "johndoegmail.com",
+  "password": "$2b$10$qBr.x6S93a4PNXbE0ulp0.E/icHpHbyeuu63p2ATSn9a/D6obEUqi",
+  "comments": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64555ee16bf90a59489909ae"
+  },
+  "first_name": "Jan",
+  "last_name": "Doe",
+  "username": "jandoegmail.com",
+  "email": "jandoegmail.com",
+  "password": "$2b$10$LBjC3FVaWUjWsR7cVYQMKuOdWew15/O.d8vs2VXBlk9hwjBVTOS2.",
+  "comments": [],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64555f0f6bf90a59489909b1"
+  },
+  "first_name": "Huy",
+  "last_name": "Luong",
+  "username": "huyluongtctv@gmail.com",
+  "email": "huyluongtctv@gmail.com",
+  "password": "$2b$10$WQ1SRXIzLCkTg12.skLzRuFTrXgkKKx/bZBgfj5s0Qj5jUkmQDKja",
+  "comments": [],
+  "__v": 0
+}]
